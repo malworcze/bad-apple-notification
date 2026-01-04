@@ -7,7 +7,10 @@ i tested it on an i3 2120 PC running windows 10 iot ltsc 2021, it might be suppo
 ## how to run?
 1. install BurntToast module by following this step (run powershell as admin)
 > Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
+
 > Install-Module BurntToast -Scope CurrentUser
+
 > Import-Module BurntToast
+
 now check if it's working
 > New-BurntToastNotification -Text "test", "test"
