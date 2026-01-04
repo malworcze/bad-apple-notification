@@ -18,4 +18,7 @@ now check if it's working
 > New-BurntToastNotification -Text "test", "test"
 if it's working do step 2
 
-### 2. 
+### 2. download the zip (i already show you how to do it)
+### 3. extract it
+### 4. uhhh do this, im shit at tutorials
+> ![alt text2](do.mov)
