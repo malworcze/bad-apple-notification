@@ -23,3 +23,6 @@ if it's working do step 2
 ### 4. extract the frames.7z with 7zip > extract to
 ### 4. uhhh do this, im shit at tutorials
 > ![watch this to change the directory to the frames](do.mov)
+### 5. run the .ps1 file by "right click > run with powershell" 
+
+enjoy
