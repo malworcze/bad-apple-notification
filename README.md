@@ -19,6 +19,7 @@ now check if it's working
 if it's working do step 2
 
 ### 2. download the zip (i already show you how to do it)
-### 3. extract it
+### 3. extract the 7z files
+### 4. extract the frames.7z with 7zip > extract to
 ### 4. uhhh do this, im shit at tutorials
-> ![alt text2](do.mov)
+> ![watch this to change the directory to the frames](do.mov)
