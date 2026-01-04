@@ -16,6 +16,7 @@ to download *click code* and then *download zip*
 
 now check if it's working
 > New-BurntToastNotification -Text "test", "test"
+
 if it's working do step 2
 
 ### 2. download the zip (i already show you how to do it)
