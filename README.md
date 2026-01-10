@@ -4,11 +4,14 @@
 welcome to my little stupid project where i abuse windows notification library called burnttoast to its limits
 i tested it on an i3 2120 PC running windows 10 iot ltsc 2021, it might be supported for windows 11 too. i'm testing it rn
 
-
+windows 11 support
+![alt text](Capture.PNG)
 
 to download *click code* and then *download zip*
 
-~ edited on 1/6/26
+~ edited on 1/10/26
+
+
 ## how to run?
 ### 1. install BurntToast module by following this step (run powershell as admin)
 > Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
