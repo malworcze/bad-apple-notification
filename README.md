@@ -5,6 +5,7 @@ welcome to my little stupid project where i abuse windows notification library c
 i tested it on an i3 2120 PC running windows 10 iot ltsc 2021, it might be supported for windows 11 too. i'm testing it rn
 
 windows 11 support
+
 ![alt text](Capture.PNG)
 
 to download *click code* and then *download zip*
